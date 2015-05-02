@@ -1,4 +1,3 @@
-# 1234
 #include <stdio.h>
 #include <io.h>
 #include <stdlib.h>
